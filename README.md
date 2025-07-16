@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lagijk
-- 👀 I’m interested in game design
+- 👀 I’m interested in game design, Web development
 - 🌱 I’m currently learning Unity, C#, and animation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
